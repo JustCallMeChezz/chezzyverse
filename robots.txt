@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justcallmechezz.github.io/chezzyverse/sitemap.xml
